@@ -1,4 +1,9 @@
 # Adding New Buttons To The Main Menu:
+So now go to this line for example:
+
+![Screenshot (272)](https://user-images.githubusercontent.com/63361129/142378722-5e9b5976-df51-47b0-a283-d3784577dded.png)
+
+And try to change the P-Code 
 ```actionscript
 getproperty QName(PrivateNamespace("pages:main_menu_page_main"),"ButtonTypes")
 findpropstrict QName(PackageNamespace("components"),"ButtonData") 
@@ -40,3 +45,5 @@ debugline 197
 ```actionscript
 getlocal0
 ```
+
+When you done coding it, save the gfx file, pack the SDS File and see the results by running the game.
