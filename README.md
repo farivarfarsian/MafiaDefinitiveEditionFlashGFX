@@ -8,7 +8,7 @@ For Unpacking SDSs Files You Should use [Mafia Toolkit](https://github.com/Greav
 ## Some advice
 #### 1-Remeber For editing the flash codes in JPEX Flash Decompiler You should always edit the P-Code if you don't then the file will broke.
 #### 2-Remember to always backup your files
-## Let's Go
+## Let's go
 ### [Adding New Buttons To The Main Menu](https://github.com/jindrapetrik/jpexs-decompiler/releases)
 
 
