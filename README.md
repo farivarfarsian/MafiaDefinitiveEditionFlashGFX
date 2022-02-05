@@ -6,7 +6,7 @@ In Mafia Definitive Edition Main Flash Files are in ```MAINGAMEFOLDER/sds_retail
 
 For Unpacking SDSs Files You Should use [Mafia Toolkit](https://github.com/Greavesy1899/MafiaToolkit/releases/tag/2.21)
 ## Some advice
-#### 1-Remeber For editing the flash codes in JPEX Flash Decompiler You should always edit the P-Code if you don't then the file will broke.
+#### 1-Remeber For editing the flash codes in JPEX Flash Decompiler You should always edit the P-Code if you don't then the file will break.
 #### 2-Remember to always backup your files
 ## Let's go
 ### 1-[Setup, First lesson](https://github.com/MafiaBar/MafiaDefinitiveEditionFlashGFX/blob/main/Firstlesson.md#setup)
